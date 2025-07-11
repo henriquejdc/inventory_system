@@ -8,12 +8,15 @@ Este projeto implementa um sistema simples e modular para gerenciamento de inven
 
 ## Run
 
+```bash
 python3 main.py
+```
 
 ## Funcionalidades
 
 - Adição e consulta de produtos
 - Atualização de estoque
+- Atualização de preço
 - Cálculo de valor total
 - Listagem de produtos com estoque baixo
 
